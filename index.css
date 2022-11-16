@@ -1,0 +1,48 @@
+body{
+    color: white;
+    background-color: rgb(3, 36, 77);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ul {
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+    align-items: center;
+    padding: 50px;
+}
+
+.meio{
+    text-align: center;
+    padding: 60px;
+}
+
+.sobre{
+    text-align: center;
+    padding: 10px;
+}
+
+.aux{
+    text-align: center;
+    padding: 0px 280px;
+}
+
+.servicos{
+    text-align: center;
+    padding: 10px;
+
+}
+
+.contatos{
+    text-align: center;
+
+}
+
+footer{
+    display: flex;
+    justify-content: center;
+}
+
+footer a{
+    padding: 10px;
+}
